@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="assets/expo.svg" width="200" alt="Nest Logo" /></a>
+  <a href="https://expo.dev/client/" target="blank"><img src="assets/expo.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
   <p align="center">Expo Go app boilerplate.</p>
